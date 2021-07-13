@@ -1,0 +1,39 @@
+body, html {
+  height: 100%
+}
+
+.container {
+  position: relative;
+
+  background-image: url('./white-rainforest-unsplash.jpg');
+  min-height: 100%;
+  background-position: center;
+  background-size: cover;
+  
+  text-align: center;
+  
+}
+
+.center-box{
+  position: relative;
+  top: 40vh;
+}
+
+.title {
+  font-family: Helvetica;
+  font-size: 6vw;
+  color: white;
+}
+
+.divider {
+  margin: auto;
+  width: 35%;
+  margin-top: 1%;
+  margin-bottom: 1%;
+}
+
+.subtitle {
+  font-family: Helvetica;
+  font-size: 1.5vw;
+  color: white;
+}
